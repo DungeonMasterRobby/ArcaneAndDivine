@@ -1,0 +1,48 @@
+
+Kobold Lord Arsimis
+CR 1
+XP 400
+Kobold warrior 4
+LE Small humanoid (reptilian)
+Init +1; Senses darkvision 60 ft.; Perception +5
+
+DEFENSE
+
+AC 18, touch 14, flat-footed 16 (+3 armor, +1 Dex, +1 natural, +1 size)
+hp 36 (4d10)
+Fort +4, Ref +4, Will +0
+Weaknesses light sensitivity
+SR: 12
+
+OFFENSE
+
+Speed 30 ft.
+Melee mwk longsword +6 (1d6/19–20)
+Ranged shortbow +6 (1d4/×3)
+TACTICS
+
+During Combat Elite warriors are better equipped and trained than their ordinary counterparts. Even when outnumbered,
+they hold their ground, shooting at foes with poisoned arrows and falling back to cover if attacked. They use 
+stealth to sneak behind or outflank foes, and only engage in melee if they have no other choice.
+
+Morale If reduced to fewer than 10 hit points, they order any remaining kobolds to hold the line while they retreat 
+to safety to drink healing potions. They fight to the death only if cornered, or if they know their boss is watching.
+
+STATISTICS
+
+Str 10, Dex 13, Con 10, Int 10, Wis 9, Cha 8
+Base Atk +4; CMB +3; CMD 15
+Feats Improved Initiative, Lightning Reflexes
+Skills Craft (trapmaking) +9, Perception +5, Profession (miner) +1, Stealth +12
+Languages Draconic
+SQ crafty
+Combat Gear potion of cure light wounds (2), Medium spider venom (3 doses); Other Gear masterwork studded leather 
+armor, masterwork longsword, shortbow with 20 arrows, pouch of 3d6 gp
+
+SPELLS
+
+Mage Armor		Gives subject +4 armor bonus.
+Burning Hands(2)	1d4/level fire damage (max 5d4). (Mythic)
+Magic Missile		1d4+1 damage; +1 missile per two levels above 1st (max 5).
+Sleep			Puts 4 HD of creatures into magical slumber.
+Bungle			Target takes a -20 penalty on its next attack roll or check.
