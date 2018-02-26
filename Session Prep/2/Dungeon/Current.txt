@@ -1,0 +1,13 @@
+EX:
+4000
+1500
+
+INIT:
+Gal
+Mina
+tan'lia
+luda
+slapper
+chanters
+holders
+
